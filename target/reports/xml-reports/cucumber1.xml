@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="38.163" tests="2" skipped="0" failures="0" errors="0">
+<testcase classname="Using Background Keyword" name="TC03_amazonSearch" time="23.95">
+<system-out><![CDATA[
+Given kullanici google sayfasina gider......................................passed
+When kullanici amazon icin arama yapar......................................passed
+Then sayfa basliginin amazon kelimesi icerdigini test eder..................passed
+]]></system-out>
+</testcase>
+<testcase classname="Using Background Keyword" name="TC04_linkedinSearch" time="13.448">
+<system-out><![CDATA[
+Given kullanici google sayfasina gider......................................passed
+When kullanici linkedin icin arama yapar....................................passed
+Then sayfa basliginin linkedin kelimesi icerdigini test eder................passed
+]]></system-out>
+</testcase>
+</testsuite>
